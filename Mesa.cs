@@ -14,16 +14,25 @@ namespace Devops
         private Mao _maoDireita;
 
         //Regras
-        //Carta Alta: A carta de maior valor.
-        //Um Par: Duas cartas do mesmo valor.
-        //Dois Pares: Dois pares diferentes.
-        //Trinca: Três cartas do mesmo valor e duas de valores diferentes.
-        //Straight (sequência): Todas as cartas com valores consecutivos.
-        //Flush: Todas as cartas do mesmo naipe.
-        //Full House: Uma trinca e um par.
-        //Quadra: Quatro cartas do mesmo valor.
-        //Straight Flush: Todas as cartas são consecutivas e do mesmo naipe.
-        //Royal Flush: A seqüência 10, Valete, Dama, Rei, Ás, do mesmo naipe.
+        //Carta Alta: A carta de maior valor. #10
+
+        //Um Par: Duas cartas do mesmo valor. #20
+        
+        //Dois Pares: Dois pares diferentes. #30
+        
+        //Trinca: Três cartas do mesmo valor e das de valores diferentes. #40
+        
+        //Straight (sequência): Todas as cartas com valores consecutivos. #50
+        
+        //Flush: Todas as cartas do mesmo naipe. #60
+        
+        //Full House: Uma trinca e um par. #70
+        
+        //Quadra: Quatro cartas do mesmo valor. #80
+        
+        //Straight Flush: Todas as cartas são consecutivas e do mesmo naipe. #90
+        
+        //Royal Flush: A seqüência 10, Valete, Dama, Rei, Ás, do mesmo naipe. #100
     }    
     
    
