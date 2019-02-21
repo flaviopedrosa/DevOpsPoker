@@ -1,8 +1,7 @@
 using System;
 
 namespace Devops
-{
-   
+{   
     public class Mao{
         private Carta[] Cartas {get;set;}
         private int Valor {get;set;}
