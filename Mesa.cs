@@ -15,6 +15,9 @@ namespace Devops
 
         //Regras
         //Carta Alta: A carta de maior valor. #10
+        private void CartaMaiorValor(){
+            
+        }
 
         //Um Par: Duas cartas do mesmo valor. #20
         
