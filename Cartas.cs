@@ -13,7 +13,7 @@ namespace Devops
             this._cartas = cartas;
             this._valores = new List<int>();
         }   
-         //Regras
+        //Regra
         //Carta Alta: A carta de maior valor. #10
         private void CartaMaiorValor(){
             int maiorValor = (int)_cartas.Max(x=>x.Valor);
