@@ -33,10 +33,10 @@ namespace Devops
 
     public enum EnumNaipe
     {  
-        D,
-        H,
-        S,
-        C
+        Ouro,
+        Copas,
+        Espadas,
+        Paus
     }
     
 }

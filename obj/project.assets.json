@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\525969\\.nuget\\packages\\": {},
+    "C:\\Users\\julia\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\525969\\Documents\\Devops\\Devops.csproj",
+      "projectUniqueName": "C:\\Users\\julia\\source\\repos\\DevOpsPoker\\Devops.csproj",
       "projectName": "Devops",
-      "projectPath": "C:\\Users\\525969\\Documents\\Devops\\Devops.csproj",
-      "packagesPath": "C:\\Users\\525969\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\525969\\Documents\\Devops\\obj\\",
+      "projectPath": "C:\\Users\\julia\\source\\repos\\DevOpsPoker\\Devops.csproj",
+      "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\julia\\source\\repos\\DevOpsPoker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\525969\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
