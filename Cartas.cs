@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Devops
 {
-   
+    // Classe das cartas  
     public class Mao{
         private Carta[] _cartas {get;set;}
         private int _valor {get;set;}
