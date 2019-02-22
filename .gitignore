@@ -5,3 +5,8 @@
 /.vs/slnx.sqlite
 /.vs/Solution1/v15/Server/sqlite3/db.lock
 /.vs/Devops/v15/Server/sqlite3/db.lock
+`.vs/Devops/v15/.suo`
+`.vs/Devops/v15/Server/sqlite3/storage.ide-shm`
+`.vs/Devops/v15/Server/sqlite3/storage.ide-wal`
+`obj/Debug/netcoreapp2.1/Devops.assets.cache`
+`obj/Debug/netcoreapp2.1/Devops.csproj.CoreCompileInputs.cache`
